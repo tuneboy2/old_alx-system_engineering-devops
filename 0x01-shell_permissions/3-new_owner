@@ -1,1 +1,2 @@
-sudo chosen Betty hello
+#!/bin/bash
+sudo chown betty hello
