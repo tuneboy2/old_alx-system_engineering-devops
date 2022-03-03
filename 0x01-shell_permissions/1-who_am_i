@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 [master d30563c] Who am I
  1 file changed, 1 insertion(+)
  create mode 100755 0x01-shell_permissions/1-who_am_i
+=======
+#!/bin/bash
+whoami
+>>>>>>> a4a2966dacb9539e82b5eae8dd43b7826244f2a9
