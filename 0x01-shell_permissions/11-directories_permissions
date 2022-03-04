@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -r a+x */alx-ss/0
+chmod -r a+x */alx-ss/
