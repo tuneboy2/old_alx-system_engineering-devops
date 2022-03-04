@@ -1,1 +1,2 @@
-chmod 711 0x01-shell_permissions
+#!/bin/bash
+chmod 711 /alx-system_engineering-devops/0x01-shell_permissions
