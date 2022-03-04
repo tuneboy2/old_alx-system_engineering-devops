@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hhhh
+=======
+#!/bin/bash
+chmod -reference=olleh hello
+>>>>>>> 135b40119fb1760c5b1cb8d147df46fd0c58fb9e
